@@ -1,4 +1,5 @@
 #!/bin/bash
+# Denne filen skal fungere som en setup fil for pi.
 
 echo "Oppdaterer systemet..."
 # Oppdaterer systemet
